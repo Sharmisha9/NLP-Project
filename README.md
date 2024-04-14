@@ -1,8 +1,11 @@
-# NLP-Project
+# CS521 - Final Project 
+Sharmisha Parvathaneni
 
+# Next words prediction in Joke
 
-Next words prediction in Joke.
+Objective: Use NLP techniques and choose a model that predicts the next words in a joke, particularly focusing on generating humourous or contextually relevant content and also explore how models can be effectively used in the filed of computational humor.
 
-1. I have fine tuned GPT-2 model on the dataset from https://www.kaggle.com/datasets/abhinavmoudgil95/short-jokes. I have used HuggingFace Library for GPT-2 Model. Yet to run this and check, my computer resources is not sufficient.
-2. I have used LSTM model - I couldn't accurately predict as I haven't trained and tested model.
-   
+In this project, I implemented a LSTM model on a dataset containing jokes. The primary goal was to understand the limitations of LSTM models in generating jokes compared to more advanced models lie GGPTs. Additionally, I explored improvements that could enhance the preformance of LSTM models in generating humorous content.
+
+See the documentation for more details.
+
