@@ -30,7 +30,7 @@ Clone the repository or download the files to your local machine: git clone [git
 # To install the required Python libraries, run the following command in your terminal:
  pip install numpy pandas matplotlib seaborn tensorflow
 
-# Download the datasets from 
+# Download the dataset from 
 [https://www.kaggle.com/datasets/abhinavmoudgil95/short-jokes]. Input data format is csv.
 
 # Executing the Notebooks
