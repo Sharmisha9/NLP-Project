@@ -1,5 +1,5 @@
 # Project Documentation
-CS521 - University of Illinois at Chicago
+CS521 - University of Illinois at Chicago -
 Sharmisha Parvathaneni
 
 # Introduction
@@ -19,8 +19,8 @@ This notebook details the development and validation of a Long Short-Term Memory
 - numpy
 - pandas
 - matplotlib
-- seaborn (only for EDA.ipynb)
-- tensorflow (only for lstm-final.ipynb)
+- seaborn 
+- tensorflow 
 
 
 # Setting up your environment
@@ -31,7 +31,7 @@ Clone the repository or download the files to your local machine: git clone [git
  pip install numpy pandas matplotlib seaborn tensorflow
 
 # Download the datasets from 
-[https://www.kaggle.com/datasets/abhinavmoudgil95/short-jokes]. Input data format is csv format.
+[https://www.kaggle.com/datasets/abhinavmoudgil95/short-jokes]. Input data format is csv.
 
 # Executing the Notebooks
 **EDA.ipynb**: Run all cells sequentially to perform the exploratory data analysis. Adjust parameters in the cells if necessary to suit your data specifics.
@@ -40,7 +40,7 @@ Clone the repository or download the files to your local machine: git clone [git
 
 # Understanding Output and Results
 Outputs in EDA.ipynb include summaries and visualizations, which help in assessing the distribution, trends, and anomalies in the data.
-Outputs in LSTM-final.ipynb include the model's performance metrics like accuracy and loss over training epochs, as well as the final prediction results visualized through appropriate plots.
+Outputs in LSTM-final.ipynb include the model's performance metrics like accuracy and loss over training epochs, as well as the final prediction results visualized through appropriate plots which can be found in the results folder.
 
 
 
