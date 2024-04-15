@@ -31,9 +31,11 @@ Clone the repository or download the files to your local machine:
 ```bash
 git clone [git@github.com:Sharmisha9/cs521-Final-Project.git]
 
-# To install the required Python libraries, run the following command in your terminal: pip install numpy pandas matplotlib seaborn tensorflow
+# To install the required Python libraries, run the following command in your terminal:
+ pip install numpy pandas matplotlib seaborn tensorflow
 
-# Download the datasets from [https://www.kaggle.com/datasets/abhinavmoudgil95/short-jokes]. Input data format is csv format.
+# Download the datasets from 
+[https://www.kaggle.com/datasets/abhinavmoudgil95/short-jokes]. Input data format is csv format.
 
 # Executing the Notebooks
 EDA.ipynb: Run all cells sequentially to perform the exploratory data analysis. Adjust parameters in the cells if necessary to suit your data specifics.
