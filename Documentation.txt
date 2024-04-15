@@ -6,7 +6,7 @@ Sharmisha Parvathaneni
 EDA.ipynb:
 This notebook contains the exploratory data analysis (EDA) for our project. It is designed to provide insights into the dataset's structure, uncover any underlying patterns, and identify potential issues with data quality or completeness.
 
-lstm-final.ipynb:
+LSTM-final.ipynb:
 This notebook details the development and validation of a Long Short-Term Memory (LSTM) model aimed at predicting next words in Joke. It includes data preprocessing, model training, evaluation, and final predictions.
 
 # System Requirements
