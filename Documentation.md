@@ -22,14 +22,10 @@ This notebook details the development and validation of a Long Short-Term Memory
 - seaborn (only for EDA.ipynb)
 - tensorflow (only for lstm-final.ipynb)
 
-# Installation Instructions
 
 # Setting up your environment
 
-Clone the repository or download the files to your local machine:
-
-```bash
-git clone [git@github.com:Sharmisha9/cs521-Final-Project.git]
+Clone the repository or download the files to your local machine: git clone [git@github.com:Sharmisha9/cs521-Final-Project.git] 
 
 # To install the required Python libraries, run the following command in your terminal:
  pip install numpy pandas matplotlib seaborn tensorflow
