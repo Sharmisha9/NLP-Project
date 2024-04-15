@@ -36,7 +36,7 @@ Clone the repository or download the files to your local machine: git clone [git
 # Executing the Notebooks
 **EDA.ipynb**: Run all cells sequentially to perform the exploratory data analysis. Adjust parameters in the cells if necessary to suit your data specifics.
 
-**LSTM-final.ipynb**: Follow the steps in the notebook to preprocess the data, train the LSTM model, and view the predictions. Ensure that each cell is executed in order, especially the ones involving data loading and preprocessing.
+**LSTM-final.ipynb**: Follow the steps in the notebook to preprocess the data, train the LSTM model, and view the predictions. Ensure that each cell is executed in order, especially the ones involving data loading and preprocessing. Make sure you have enough computational resources.
 
 # Understanding Output and Results
 Outputs in EDA.ipynb include summaries and visualizations, which help in assessing the distribution, trends, and anomalies in the data.
