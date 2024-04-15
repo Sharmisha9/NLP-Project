@@ -31,7 +31,7 @@ Clone the repository or download the files to your local machine: git clone [git
  pip install numpy pandas matplotlib seaborn tensorflow
 
 # Download the dataset from 
-[https://www.kaggle.com/datasets/abhinavmoudgil95/short-jokes]. Input data format is csv.
+[https://www.kaggle.com/datasets/abhinavmoudgil95/short-jokes]. Input data format is csv. The dataset has two columns ID and Joke.
 
 # Executing the Notebooks
 **EDA.ipynb**: Run all cells sequentially to perform the exploratory data analysis. Adjust parameters in the cells if necessary to suit your data specifics.
