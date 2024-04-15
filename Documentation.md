@@ -12,7 +12,7 @@ This notebook details the development and validation of a Long Short-Term Memory
 # System Requirements
 
 **Required Software:**
-- Python 3.8 or newer
+- Python 3.10 or newer
 - Jupyter Notebook
 
 **Required Libraries:**
@@ -33,8 +33,7 @@ git clone [git@github.com:Sharmisha9/cs521-Final-Project.git]
 
 # To install the required Python libraries, run the following command in your terminal: pip install numpy pandas matplotlib seaborn tensorflow
 
-# Download the datasets from [https://www.kaggle.com/datasets/abhinavmoudgil95/short-jokes]. Input data format is csv.
-# My project has two dataset csv files - jokes.csv has 231657 rows and shortjokes.csv has 100000 rows. Based on your computational resources choose the specific dataset.
+# Download the datasets from [https://www.kaggle.com/datasets/abhinavmoudgil95/short-jokes]. Input data format is csv format.
 
 # Executing the Notebooks
 EDA.ipynb: Run all cells sequentially to perform the exploratory data analysis. Adjust parameters in the cells if necessary to suit your data specifics.
@@ -42,7 +41,10 @@ lstm-final.ipynb: Follow the steps in the notebook to preprocess the data, train
 
 # Understanding Output and Results
 Outputs in EDA.ipynb include summaries and visualizations, which help in assessing the distribution, trends, and anomalies in the data.
-Outputs in lstm-final.ipynb include the model's performance metrics like accuracy and loss over training epochs, as well as the final prediction results visualized through appropriate plots.
+Outputs in LSTM-final.ipynb include the model's performance metrics like accuracy and loss over training epochs, as well as the final prediction results visualized through appropriate plots.
+
+
+
 
 
 
